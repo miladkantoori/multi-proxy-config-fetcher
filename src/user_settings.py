@@ -6,6 +6,12 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
     # "https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
+    "https://t.me/s/vlesskeys",
+    "https://t.me/s/privatevpns",
+    "https://t.me/s/vlessconfig",
+    "https://t.me/s/vmesskhodam",
+    "https://t.me/s/vpnfail_v2ray",
+    ###################
     "https://t.me/s/FreeV2rays",
     "https://t.me/s/v2ray_free_conf",
     "https://t.me/s/PrivateVPNs",
