@@ -42,8 +42,6 @@ vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=&encr
 
 vless://15171c7a-074b-4442-907b-f162feda2555@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=google.com#VPNKEY-Hong Kong
 
-vless://15171c7a-074b-4442-907b-f162feda2555@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-
 vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@b.nl.cdn.maviks.ru:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@meli_proxyy
 
 vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=a0209e22#%40meli_proxyy
@@ -60,6 +58,8 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.8.198:443?security=reality&e
 
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40meli_proxyy
 
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@meli_proxyy
+
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=%2F188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#@meli_proxyy
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#@meli_proxyy
@@ -73,6 +73,8 @@ trojan://telegram-id-directvpn@13.36.249.38:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.36.249.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 trojan://telegram-id-directvpn@13.38.193.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@13.38.239.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.188.171.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -92,8 +94,6 @@ trojan://telegram-id-directvpn@3.122.89.11:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@3.123.174.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.65.233.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@51.44.116.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.44.141.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
@@ -112,9 +112,9 @@ trojan://telegram-id-privatevpns@13.38.193.247:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.38.193.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@15.188.171.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.191.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.171.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0%3D@xxx.90908585.ir:8080#@meli_proxyy
 
