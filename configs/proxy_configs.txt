@@ -34,6 +34,8 @@ vless://184aae9f-795f-a18c-ff65-177b90e4c7f0@95.216.182.123:2086?encryption=none
 
 vless://184aae9f-795f-a18c-ff65-177b90e4c7f0@fi1.mahboob.top:2086?encryption=none&security=none&type=tcp#@VIProxys
 
+vless://3811e832-817b-48b8-cd1f-b650439ce79b@sites.mtanaco.top:443?security=none&encryption=none&host=s1.mediaad.org&headerType=http&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40🌽
+
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=%2F-AzV2ry%3Fed%3D2056&security=none&encryption=none&host=qbank.ir&type=xhttp#@VIProxys
 
 vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?type=tcp&headerType=http&host=speedtest.net&security=none#@vmesskhodam
@@ -57,8 +59,6 @@ vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&
 vless://4b10710f-4ca7-48d8-b271-9b4bcb2a847e@109.122.251.109:600?security=none&encryption=none&headerType=http&type=tcp#@vmesskhodam-@vmesskhodam
 
 vless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple🌿
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.0.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#@VIProxys
 
 trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@VIProxys
 
@@ -128,11 +128,9 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#@VIProxys
 
 ss://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN?/Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&sni=nic3-1.workers.dev#@VIProxys
 
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjQuMTMxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAia2FtcG9uZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjQuMTMxLTA4MTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjUuMjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5aWNodWVuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjUuMjMtMDc1NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-
 vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC4xMDAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrYW1wb25nLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTkxLjEzNC44LjEwMC0wOTA1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+
+vmess://ewogICAgImFkZCI6ICIxNDEuOTQuMTU1LjIyOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBlbGFuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNDEuOTQuMTU1LjIyOS0xMjA2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
 vmess://ewogICAgImFkZCI6ICIxNS4yMzUuNTAuMTcyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTE1LjIzNS41MC4xNzItMTY0NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 
@@ -183,4 +181,6 @@ vmess://eyJhZGQiOiI3OC4xNTcuNjMuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21l
 vmess://eyJhZGQiOiI5Mi4yNDYuODcuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhZjkyMWM3LWFjNjMtNDBiYy1mYWExLWNkYTA5N2ZkN2U0MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzNTUiLCJwcyI6IvCfkJIyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI5NC4xMzkuMTgwLjgzIiwic2N5IjoiYXV0byIsInYiOiIyIiwicG9ydCI6IjQ0MyIsImlkIjoiN2JkNDQ2MTEtZjJjYS00YWQwLWJlZDUtMmZlOGYyMzg3ZDY4IiwicHMiOiJAdm1lc3NraG9kYW0iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+
+vmess://eyJhZGQiOiI5NS4yMTEuNTguNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nZGdIRzU1dGh0IiwicG9ydCI6IjE2NDE4IiwicHMiOiLwn4ez8J+HsSBAdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
