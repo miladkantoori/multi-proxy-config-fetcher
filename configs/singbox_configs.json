@@ -79,9 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇩🇪 vless-9e6534ad (Germany)",
-        "🇨🇦 vless-6128af01 (Canada)",
-        "🇺🇸 vmess-297f8ca0 (United States)",
+        "🇨🇦 vless-feb5bfca (Canada)",
+        "🇺🇸 vmess-f0e40a72 (United States)",
         "direct"
       ]
     },
@@ -89,9 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 vless-9e6534ad (Germany)",
-        "🇨🇦 vless-6128af01 (Canada)",
-        "🇺🇸 vmess-297f8ca0 (United States)"
+        "🇨🇦 vless-feb5bfca (Canada)",
+        "🇺🇸 vmess-f0e40a72 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -103,21 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-9e6534ad (Germany)",
-      "server": "159.195.45.129",
-      "server_port": 443,
-      "uuid": "859a537b-09cf-4bce-8da4-ecbb72950e3a",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "3.oncloudnineservicestreang.com",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-6128af01 (Canada)",
+      "tag": "🇨🇦 vless-feb5bfca (Canada)",
       "server": "104.16.72.50",
       "server_port": 443,
       "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59",
@@ -137,7 +121,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 vmess-297f8ca0 (United States)",
+      "tag": "🇺🇸 vmess-f0e40a72 (United States)",
       "server": "57.151.100.27",
       "server_port": 10086,
       "uuid": "550e8400-e29b-41d4-a716-446655440000",
